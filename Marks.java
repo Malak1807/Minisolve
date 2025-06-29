@@ -47,5 +47,6 @@ public class Marks {
         System.out.println("Number of students securing 80% and above in aggregate is: " + eightyAndAbove);
         System.out.println("Number of students securing 30% and below in aggregate is: " + thirtyAndBelow);
         
+        //this comment line is added to test some git commands
     }
 }
